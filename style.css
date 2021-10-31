@@ -1,13 +1,8 @@
-sijin
 stylesheet
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:300,400,400i,500,700');
 
 /* font-family: 'Roboto', sans-serif;
 font-family: 'Roboto Slab', serif; */
-
-/* 
-℘ąŋƙąʝ ɖɧıɱąŋ
-*/
 
 body {
     background: #fff;
@@ -382,7 +377,6 @@ section{
 .portfolio-section-text a:hover{
     color: #fff;
 }
-/**** PORTFOLIO ****/
 /**** FOOTER ****/
 
 footer{
@@ -435,8 +429,3 @@ footer a{
 footer a:hover{
     color: #F05F40;
 }
-
-
-
-
-
